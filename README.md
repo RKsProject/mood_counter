@@ -17,8 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Screenshots
-/screenshots/output1.jpeg
-/screenshots/output2.jpeg
+/screenshot/output1.jpeg
+/screenshot/output2.jpeg
 
 
 ## How to Run
