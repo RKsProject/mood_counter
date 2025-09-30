@@ -20,8 +20,8 @@ samples, guidance on mobile development, and a full API reference.
 /screenshots/output1.jpeg
 /screenshots/output2.jpeg
 
+
 ## How to Run
 1. Clone this repo
    ```bash
-
    git clone https://github.com/RKsProject/mood_counter.git
